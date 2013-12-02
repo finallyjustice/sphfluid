@@ -1,0 +1,7 @@
+SPH_GPU_3D_v1:
+
+This is the implementation of SPH fluid in 3D.
+To compile the source code, please directly copy the files to your CUDA project in Visual Studio 2010. cutil library is required.
+For question, please contact (Dongli ZHANG) dongli.zhang0129@gmail.com.
+
+I will add the comment soon...

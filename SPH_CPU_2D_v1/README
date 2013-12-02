@@ -1,0 +1,7 @@
+SPH_CPU_2D_v1:
+
+This is the implementation of SPH fluid in 2D.
+To compile the source code, please directly copy the files to your OpenGL project in Visual Studio 2010.
+For question, please contact (Dongli ZHANG) dongli.zhang0129@gmail.com.
+
+I will add the comment soon...

@@ -1,0 +1,19 @@
+Contact: Dongli Zhang (dongli.zhang0129@gmail.com)
+
+This folder has five sub folders. 
+
+libmachinecube:	A machine cube library for rendering.
+
+SPH_CPU_2D_v1:	CPU-based 2D SPH fluid simulation.
+
+SPH_CPU_3D_v1:	CPU-based 3D SPH fluid simulation.
+
+SPH_GPU_2D_v1:	GPU-based 2D SPH fluid simulation.
+
+SPH_GPU_3D_v1:	GPU-based 3D SPH fluid simulation.
+
+I will upload the comment for code soon....
+
+
+Reference:
+Particle-Based Fluid Simulation for Interactive Applications
