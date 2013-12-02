@@ -6,6 +6,8 @@ libmachinecube:	A machine cube library for rendering.
 
 SPH_CPU_2D_v1:	CPU-based 2D SPH fluid simulation.
 
+SPH_CPU_2D_v2:	CPU-based 2D SPH fluid simulation with OOP.
+
 SPH_CPU_3D_v1:	CPU-based 3D SPH fluid simulation.
 
 SPH_GPU_2D_v1:	GPU-based 2D SPH fluid simulation.
